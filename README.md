@@ -7,7 +7,7 @@ card checker 3D's using python 3.13
 ## Installation
 ```
 - git clone https://github.com/KianSantang777/STRIPE-AUTHX.git
-- pip install requests asyncio aiohttp faker colorama pyfiglet httpx pycryptodome
+- pip install aiohttp aiofiles aiohttp_socks pyfiglet faker requests httpx colorama psutil
 - cd STRIPE-AUTHX
 - pip install -r requiremets.txt
 - python auth.py
