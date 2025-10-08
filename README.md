@@ -10,7 +10,7 @@ card checker 3D's using python 3.13
 - pip install requests asyncio aiohttp faker colorama pyfiglet httpx pycryptodome
 - cd STRIPE-AUTHX
 - pip install -r requiremets.txt
-- python ccn.py
+- python auth.py
 ```
 ## Contact DEV
 [TELEGRAM](https://t.me/xqndrs66)
