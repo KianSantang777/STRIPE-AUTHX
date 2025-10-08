@@ -1,10 +1,10 @@
-requests
-httpx
 aiohttp
-pyfiglet
-colorama
-tqdm
-psutil
 asyncio
 aiofiles
-pycryptodome
+aiohttp_socks
+pyfiglet
+faker
+requests
+httpx
+colorama
+psutil
