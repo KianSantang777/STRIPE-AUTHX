@@ -10,7 +10,7 @@ card checker stripe-auth using python 3.12.0
 - pip install aiohttp aiofiles aiohttp_socks pyfiglet faker requests httpx colorama psutil
 - cd STRIPE-AUTHX
 - python -m pip install -r requirements.txt
-- python auth.py
+- python oki.py
 ```
 ## Contact DEV
 [TELEGRAM](https://t.me/xqndrs66)
